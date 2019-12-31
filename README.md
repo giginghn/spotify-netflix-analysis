@@ -13,3 +13,4 @@ In addition to music, I’m curious how similar our movie tastes are by analysin
 
 
 Link to the post:
+https://towardsdatascience.com/a-subtle-analysis-on-couples-music-and-movie-tastes-via-spotify-netflix-df40ce274383
