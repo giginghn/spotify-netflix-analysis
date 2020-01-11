@@ -1,4 +1,4 @@
-# spotify-netflix-analysis
+# Spotify and Netflix Analysis
 
 It’s the end of the year when Spotify release 2019 Wrapped. I was amazed how my playlists varied in genres and artists across the globe. I could listen to musical songs non-stop 2 years ago, but my music taste changed to pop and ballad this year. Inspired by Spotify Wrapped, I decided to do a fun analysis not only on mine but also on my boyfriend’s taste in music to figure out what the data will take us. 
 
